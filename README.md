@@ -1,5 +1,5 @@
 
-# you can also check i publish my page https://moonlit-alpaca-6c5e0e.netlify.app/
+# Deploy link https://moonlit-alpaca-6c5e0e.netlify.app/
 
 # Getting Started with Create React App
 
